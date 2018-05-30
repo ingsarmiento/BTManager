@@ -1,0 +1,2 @@
+# BTManager
+Manejo de bluetooth
